@@ -25,6 +25,8 @@ Example:
 
 
 ## Installation
+
+(For security reasons, please generate your OWN api key)
 Just put your API key inside, you can generate api key from link in "Resources used"
 
 ![image](https://user-images.githubusercontent.com/63904223/79636751-3dbcd480-817a-11ea-9f85-ca842679ceef.png)
