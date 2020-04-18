@@ -47,7 +47,7 @@ YouTubePlayer\app\src\main\java\com\example\youtubeplayer\MainActivity.java
 
 YouTubePlayer\app\src\main\AndroidManifest.xml
 
-app\src\main\java\com\example\youtubeplayer\YouTubeConfig.java
+YouTubePlayer\app\src\main\java\com\example\youtubeplayer\YouTubeConfig.java
 
 
 ## Resources used
