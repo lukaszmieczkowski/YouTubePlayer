@@ -21,6 +21,8 @@ Example:
 
 * The video to play is added using the end of the video url available on youtube to the created list, it is also possible to play the entire playlist
 
+Example:
+
 ![image](https://user-images.githubusercontent.com/63904223/79636715-fc2c2980-8179-11ea-8bd5-4d20bfef1eb5.png)
 
 
