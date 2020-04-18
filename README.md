@@ -6,8 +6,11 @@ YouTube Android Player API is publicly available.
 
 
 ## Installation
+Just put your API key inside this, you can generate api key from link in "Resources used"
 
-![ScreenShot](/xa1.png)
+![image](https://user-images.githubusercontent.com/63904223/79636209-55925980-8176-11ea-80f4-7e84dcfb52da.png)
+
+Screenshot path: app\src\main\java\com\example\youtubeplayer\YouTubeConfig.java
 
 ## Library
 
